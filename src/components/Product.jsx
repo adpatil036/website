@@ -13,7 +13,7 @@ function Product() {
             />
           </div>
           <div className="col-lg-5">
-            <h1 className="font-weight-light">Products</h1>
+            <h1 className="font-weight-light">Services</h1>
             <p>
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text

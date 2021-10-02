@@ -27,7 +27,7 @@ function Navigation(props) {
                 }`}
               >
                 <Link className="nav-link" to="/products">
-                  Products
+                  Services
                   <span className="sr-only">(current)</span>
                 </Link>
               </li>
